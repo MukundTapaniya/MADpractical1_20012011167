@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f618754-1e60-4b9a-b03b-4b3ab113e9b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical9.kt" afterDir="false" />
+    <list default="true" id="8f618754-1e60-4b9a-b03b-4b3ab113e9b3" name="Changes" comment="DONE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical11.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +44,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practical6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practical6Kt" />
+    <configuration name="Practical11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practical11Kt" />
       <module name="MADpractical1_20012011167" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,10 +75,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.Practical10Kt" />
+        <item itemvalue="Kotlin.Practical11Kt" />
         <item itemvalue="Kotlin.Practical9Kt" />
         <item itemvalue="Kotlin.Practical8Kt" />
         <item itemvalue="Kotlin.Practical7Kt" />
-        <item itemvalue="Kotlin.Practical6Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +91,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661239926261</updated>
     </task>
+    <task id="LOCAL-00001" summary="DONE">
+      <created>1661248483400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661248483400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="DONE" />
   </component>
 </project>
